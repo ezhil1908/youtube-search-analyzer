@@ -339,24 +339,69 @@ youtube-search-analyzer/
 
 ## ⚙️ Installation & Setup
 
-Clone the Repository:git clone https://github.com/ezhil1908/youtube-search-analyzer.git
-Navigate to the project directory:cd youtube-search-analyzer
-Create a Python virtual environment:python -m venv venv
-Activate the Virtual Environment: venv\Scripts\activate
-Install the required Python packages:pip install -r requirements.txt
-Create a .env file in the project root directory:
+### 1. Clone the Repository
+
+```
+git clone https://github.com/ezhil1908/youtube-search-analyzer.git
+```
+
+### 2. Navigate to the Project Directory
+
+```
+cd youtube-search-analyzer
+```
+
+### 3. Create a Python Virtual Environment
+
+```
+python -m venv venv
+```
+
+### 4. Activate the Virtual Environment
+
+**Windows:**
+
+```
+venv\Scripts\activate
+```
+
+### 5. Install Required Packages
+
+```
+pip install -r requirements.txt
+```
+
+### 6. Configure the YouTube API Key
+
+Create a `.env` file in the project root directory:
+
+```text
 youtube-search-analyzer/
-│
 ├── .env
 ├── app.py
 ├── api.py
-└── ...
-Add your API key to the .env file:YOUTUBE_API_KEY=your_api_key_here
+├── analysis.py
+├── sentiment.py
+├── visualization.py
+└── requirements.txt
+```
+
+Add your YouTube API key to the `.env` file:
+
+```env
+YOUTUBE_API_KEY=your_api_key_here
+```
+
+> **Important:** Never upload your `.env` file or expose your API key publicly.
+
 
 ## ▶️ How to Run the Application
 
 After completing the installation and API configuration, run the Streamlit application using:
+```
 streamlit run app.py
+```
+The application will open in your browser.
 
 ## 📥 Export Results
 
