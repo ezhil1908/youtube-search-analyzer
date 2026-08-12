@@ -428,8 +428,11 @@ Potential improvements for the project include:
 - ☁️ Deploy the application online using Streamlit Cloud.
 
 
-👨‍💻 Author
-Ezhilvendhan P
-MBA – Data Analytics
-Linkedin: https://www.linkedin.com/in/ezhilvendhan1908/
-GitHub: https://github.com/ezhil1908
+## 👨‍💻 Author
+
+**Ezhilvendhan P**  
+**MBA – Data Analytics**  
+
+**LinkedIn:** [Ezhilvendhan P](https://www.linkedin.com/in/ezhilvendhan1908/)  
+
+**GitHub:** [ezhil1908](https://github.com/ezhil1908)
