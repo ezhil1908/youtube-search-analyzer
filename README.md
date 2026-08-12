@@ -142,7 +142,9 @@ Interactive Visualizations
         ↓
 Filtering & Sorting
         ↓
-Insights & CSV Export
+Insights & CSV Export 
+```
+
 
 ## 🛠️ Technologies Used
 
@@ -244,7 +246,7 @@ TextBlob Polarity Analysis
 Polarity Score
         ↓
 Positive / Neutral / Negative
-
+```
 
 ## 📈 Dashboard & Visualizations
 
@@ -333,6 +335,7 @@ youtube-search-analyzer/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## ⚙️ Installation & Setup
 
