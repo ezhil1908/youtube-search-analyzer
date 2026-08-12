@@ -6,6 +6,7 @@ A Python-based interactive application that searches YouTube videos and analyzes
 
 [GitHub Repository](https://github.com/ezhil1908/youtube-search-analyzer)
 
+
 ## 📌 Project Overview
 
 The **YouTube Search Analyzer** is an interactive data analytics application built with Python and Streamlit.
@@ -24,6 +25,12 @@ The collected data is processed and analyzed to understand video performance bas
 The application presents these results through KPI cards, interactive charts, tables, filtering, sorting, and downloadable CSV reports.
 
 This project demonstrates the practical use of **API data collection, data cleaning, exploratory data analysis, sentiment analysis, data visualization, and interactive dashboard development**.
+
+## 🚀 Live Demo
+
+👉 **[YouTube Search Analyzer – Live Demo](https://youtube-search-analyzer.streamlit.app/)**
+
+Try the application online to search YouTube videos and analyze views, likes, comments, engagement, and sentiment.
 
 ## 🎯 Objectives
 
